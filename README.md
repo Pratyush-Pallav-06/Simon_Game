@@ -16,6 +16,7 @@
 # Variations:
 
 ~ Difficulty Levels: Some versions of Simon offer different difficulty levels, which can affect the speed of the sequence and the time allowed for input.
+<br>
 ~ Game Modes: Variations may include different game modes, such as two-player mode, where players take turns repeating sequences, or "Double Simon," where two sequences are played simultaneously.
 
 # Objective:
