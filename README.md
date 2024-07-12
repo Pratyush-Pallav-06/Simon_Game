@@ -13,12 +13,9 @@
 4. Continued Play: This pattern continues, with the sequence growing longer each round.
 5. Mistakes: If the player presses the wrong button or fails to reproduce the sequence, the game ends, and the player’s score is displayed.
    
-# Variations:
-
-~ Difficulty Levels: Some versions of Simon offer different difficulty levels, which can affect the speed of the sequence and the time allowed for input.
-<br>
-~ Game Modes: Variations may include different game modes, such as two-player mode, where players take turns repeating sequences, or "Double Simon," where two sequences are played simultaneously.
 
 # Objective:
 
 The primary objective of Simon is to remember and repeat increasingly complex sequences of lights and sounds. The game tests and improves memory and concentration skills, providing entertainment and cognitive exercise.
+
+
